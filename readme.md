@@ -46,7 +46,7 @@ Adds **real-time streaming** to chat, where responses are sent as they're genera
 
 ```bash
 git clone https://github.com/neerajnishad5/gemini-nodejs-app.git
-cd gemini-node-playground
+cd gemini-nodejs-app
 ````
 
 ### 2. Install Dependencies
